@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AfroFuturo
 
 ## Sobre o Projeto
@@ -117,4 +116,4 @@ A falta de acesso a mecanismos justos de resolução de conflitos pode resultar 
 A equipe utiliza o **Trello** para organização e monitoramento das atividades do projeto.
 
 
->>>>>>> 69d782ea9821813420c74cc92c795bf3278c8915
+> 69d782ea9821813420c74cc92c795bf3278c8915
