@@ -53,17 +53,6 @@ Caso não tenha o `serve` instalado, você pode instalá-lo com:
 - BootStrap
 - SQL para Modelagem de Dados
 
-# Squad 69 - Sistema de Mediação e Justiça Comunitária
-
-## Integrantes Ativos
-
-- **David Ben** - Líder
-- **Antonio Fernandes** - Vice-Líder
-
-## Desafio Escolhido
-
-### **4. Sistema de Mediação e Justiça Comunitária (ODS 16 e 10)**
-
 ### Problema Identificado
 
 A falta de acesso a justiça comunitária e mediação de conflitos em comunidades negras é um problema recorrente. Muitas vezes, essas comunidades não possuem acesso facilitado a soluções legais e processos justos.
